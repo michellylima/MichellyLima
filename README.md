@@ -10,7 +10,7 @@ I like to work as a team and build applications that somehow make people's lives
 
 Actually, I'm a Software Engineering student and a Front-end developer, but I want to become one of the best FullStack developers!
 
-:large_orange_diamond: &nbsp; I'm currently working on **LG lugar de gente**
+:large_orange_diamond: &nbsp; I'm a intern at **LG lugar de gente**
 <br/> :large_blue_diamond: &nbsp; Project Manager at **Level 5 jr.**
 <br/> :computer: &nbsp; Learning ReactJS, Node.js, React Native & Typescript Stack.
 <br/>🌸 About me: I like to learn about new technologies, build Layouts. Also, I like astronomy, games and animes.
